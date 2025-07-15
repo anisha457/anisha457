@@ -21,6 +21,7 @@
   • **Neural Networks & Deep Learning** (DeepLearning.AI)  
   • **Cybersecurity tools** like `Nmap`, `Nessus`, `Burp Suite`, and basic penetration testing  
   • Concepts in **network protocols**, **OWASP Top 10**, and **web application security**
+  • Cybersecurity basics with **Kali Linux**, starting with port scanning and reconnaissance
 
 - 👯 I’m looking to collaborate on:  
   • Beginner to intermediate **AI/ML projects**, **Python utilities**, or anything involving **cybersecurity challenges**  
