@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Tool-Nmap-blue?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Nessus-teal?style=for-the-badge&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Burp_Suite-darkorange?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Kali_Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ML%20Projects-Housing%20Price%20Prediction-green?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
