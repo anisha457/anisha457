@@ -45,7 +45,7 @@
 
 <h3 align="left">📌 Resume</h3>
 
-You can view or download my resume [here]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1G-DmJi3vUgxBLrftRy9-3dwyXLa80Lj_/view?usp=drive_link))  
+You can view or download my resume [here](https://drive.google.com/file/d/1G-DmJi3vUgxBLrftRy9-3dwyXLa80Lj_/view?usp=drive_link)  
 
 
 ---
