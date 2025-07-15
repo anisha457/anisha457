@@ -39,7 +39,7 @@
   • Continuously building a profile in **AI + Cybersecurity**
 
 - ⚡ Fun fact:  
-  **I love blending creativity with technology — from poster-making and painting to breaking and securing systems!**
+  **I love blending creativity with technology !**
 
 ---
 
