@@ -13,11 +13,11 @@
 
 ---
 
-- 🔭 I’m currently working on:  
+- 🔭 I have worked on:  
   • **Cybersecurity** as an intern at **KPMG**, exploring network security, vulnerability scanning, and ethical hacking tools  
-  • Building **ML models** for housing price prediction and **Python automation scripts**
+  • Building **ML models** 
 
-- 🌱 I’m currently learning:  
+- 🌱 I have learnt:  
   • **AI/ML Specialization** (Coursera + Kaggle)  
   • **Neural Networks & Deep Learning** (DeepLearning.AI)  
   • **Cybersecurity tools** like `Nmap`, `Nessus`, `Burp Suite`, and basic penetration testing  
