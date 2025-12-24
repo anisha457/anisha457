@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha Goel</h1>
-<h3 align="center">A cybersecurity enthusiast and tech learner from India</h3>
+<h3 align="center">An AIML and cybersecurity enthusiast and tech learner </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Intern-KPMG Cybersecurity-blueviolet?style=for-the-badge&logo=trustpilot&logoColor=white" />
